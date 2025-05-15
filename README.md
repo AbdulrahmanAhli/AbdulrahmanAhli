@@ -1,7 +1,8 @@
 
 
 # 💫About Me :
-I am a Computer Engineering student at the American University in Dubai.
+
+I am always interested in learning and playing with new things.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul.rahman_ahli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ Abdulrahman Ahli) 
